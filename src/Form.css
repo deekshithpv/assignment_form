@@ -1,0 +1,28 @@
+body {
+  background: whitesmoke;
+}
+
+.container {
+  height: 100vh;
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form h1 {
+  text-align: center;
+  color: rgb(8, 51, 51);
+}
+
+.form-container {
+  background-color: white;
+  width: 500px;
+  border: 0.5px solid rgb(95, 77, 77);
+  padding: 20px;
+  margin: 5px;
+}
+
+form p {
+  color: red;
+}
